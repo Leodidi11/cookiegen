@@ -77,7 +77,7 @@ def main(argv):
 	target = 'http://localhost/wordpress'
 	
 	print "\nWordPress Auth Cookie Generator"
-	print "Author: Mike Czumak (T_v3rn1x) - @SecuritySift - securitysift.com"
+	print "Author:  - @SecuritySift - securitysift.com"
 	print "Purpose: Generates WP auth cookies (requires valid Secret Key and Salt)"
 
 	usage = '''\nUsage: wpcookiegen.py\n\nOptions:
