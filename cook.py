@@ -1,12 +1,3 @@
-#!/usr/bin/python
-#
-##############################################################################
-# Title: 	WordPress Auth Cookie Generator Demo
-# Author: 	Mike Czumak (T_v3rn1x) - @SecuritySift - securitysift.com
-# Purpose: 	Generates WP auth cookies (requires valid Secret Key and Salt)
-# License: 	You may modify and/or distribute freely, as long as it is not 
-# 			used maliciously or incorporated into any commercial product
-##############################################################################
 
 import hmac, hashlib, string, sys, getopt
 
